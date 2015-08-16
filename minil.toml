@@ -1,0 +1,6 @@
+name = "Test-Deep-Flags"
+# badges = ["travis"]
+authority="cpan:AKIYM"
+
+module_maker="ModuleBuildTiny"
+
